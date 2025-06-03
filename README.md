@@ -18,7 +18,7 @@ PRs are very much appreciated.
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
-| [Visual Place Recognition: A Tutorial](https://ieeexplore.ieee.org/document/10261441) | Stefan Schubert | RAM 2023 | \ | [BibTex](citations/Schubert_2023_vpr_tutorial.txt) |
+| [Visual Place Recognition: A Tutorial](https://ieeexplore.ieee.org/document/10261441) | Stefan Schubert | RAM 2023 |  | [BibTex](citations/Schubert_2023_vpr_tutorial.txt) |
 | [Place recognition survey: An update on deep learning approaches](https://arxiv.org/abs/2106.10458) | Tiago Barros | ArXiv 2022 |  | [BibTex](citations/Barros_2022_Survey.txt) |
 | [General Place Recognition Survey: Towards the Real-world Autonomy Age](https://ieeexplore.ieee.org/abstract/document/10937370) | Peng Yin | T-RO 2025 |  | [BibTex](citations/Yin_2025_GeneralPR.txt) |
 | [A Survey on Deep Visual Place Recognition](https://ieeexplore.ieee.org/document/9336674) | Carlo Masone | IEEE Access 2021 |  | [BibTex](citations/Masone_2021_survey.txt) |
